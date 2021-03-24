@@ -4,4 +4,5 @@
 - [x] homework2：fragment，tabLayout …….
 - [x] homework3：advanced UI develop，usage of animation
 - [x] homework4：self-defined View Class，usage of background handler
-- [ ] homework5：
+- [x] homework5：basic network programming in android：URLConnection & detrofit, socket
+- [ ] homework6：
